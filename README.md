@@ -9,7 +9,7 @@ I will be updating this repository from Week 1 to Week 7 with mandatory hands-on
 
 The repository is organized week-wise for easy tracking and review.
 
-```text
+
 DN-5.0-Java-FSE
 ├── Week 1
 ├── Week 2
@@ -38,3 +38,6 @@ The purpose of this repository is to maintain a structured record of my learning
 * Angular / React
 * Git and CI/CD
 * DevOps, Docker, Cloud, and GenAI fundamentals
+
+```
+```
